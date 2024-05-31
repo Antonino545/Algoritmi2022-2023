@@ -1,0 +1,13 @@
+ex1/src/unity/ 
+ex1/tmp/
+ex1/build/ 
+ex2/src/unity/ 
+ex2/build/ 
+ex2/tmp/data/correctme.txt
+ex2/tmp/data/dictionary.txt
+ex3-4/out/ 
+ex3-4/javadoc/ 
+ex2/html/ 
+ex1/html/
+ex3-4/html/
+ex3-4/italian_dist_graph.csv
